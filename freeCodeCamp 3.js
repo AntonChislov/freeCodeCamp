@@ -1,4 +1,3 @@
-const fCC = "freeCodeCamp"; // Change this line
-let fact = "is cool!"; // Change this line
-fact = "is awesome!";
-console.log(fCC, fact); // Change this line
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 
+
+// Change this line
